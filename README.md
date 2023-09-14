@@ -12,7 +12,6 @@
   - 验证码目前可以本地识别，需要下载模型，放于项目根目录，全部代码来源于此项目 [传送门](https://github.com/zhaipro/easy12306)，表示感谢
     ```
       1. 模型下载链接:https://pan.baidu.com/s/1rS155VjweWVWIJogakechA  密码:bmlm
-         群里面也可以下载
       2. git仓库下载：https://github.com/testerSunshine/12306model.git
     ```
   - 自托管云打码服务器搭建：[12306_code_server](https://github.com/YinAoXiong/12306_code_server)
