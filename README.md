@@ -13,7 +13,6 @@
     ```
       1. 模型下载链接:https://pan.baidu.com/s/1rS155VjweWVWIJogakechA  密码:bmlm
       2. git仓库下载：https://github.com/testerSunshine/12306model.git
-    ```
   - 自托管云打码服务器搭建：[12306_code_server](https://github.com/YinAoXiong/12306_code_server)
     - 如果大家有空闲的服务器，可搭建之后在这个 [issues](https://github.com/testerSunshine/12306/issues/446) 里面填入自己的服务器(请注意服务器安全！)
   - 项目依赖 [requirements.txt](requirements.txt)
