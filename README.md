@@ -18,8 +18,6 @@
   - 项目依赖 [requirements.txt](requirements.txt)
       - root用户(避免多python环境产生问题): `pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt`
       - 非root用户（避免安装和运行时使用了不同环境）: `pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt`
-      - 许多windows的用户装不了tensorflow的话，可以适当降低版本或者升高版本都是可以的
-        ```
         1. tensorflow的兼容版本 1.14.0rc\1.14.0rc\1.15.0\1.15.0rc
         以上版本都测试无问题
         2. 如果pip代理的清华源无法下载，可以更换其他源解决此问题
